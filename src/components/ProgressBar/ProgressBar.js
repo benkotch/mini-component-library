@@ -12,6 +12,7 @@ const Wrapper = styled.div`
   padding: var(--padding);
 `;
 
+// from Josh
 const BarWrapper = styled.div`
   border-radius: 4px;
   overflow: hidden; // trim off corners when prog bar is near full
